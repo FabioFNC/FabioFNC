@@ -16,11 +16,11 @@ ___
 
 ___
 
-> #### Linguagens em aprendizado:
+> #### Linguagens em aprendizado📚:
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-> #### Linguagens que tenho interesse em aprender:
+> #### Linguagens que tenho interesse em aprender🐱‍💻:
 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -31,12 +31,12 @@ ___
 > #### IDE favorita🌟:
 ![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-> #### Bancos de dados que tenho interresse de aprender:
+> #### Bancos de dados que tenho interresse em aprender📁:
 ![PostgreSQL](	https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Microsoft_SQL_Sever](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
  
-> #### Redes sociais:
+> #### Redes sociais📱:
   
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Sabikbr) [<img 
 src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/_nehu_kun_/)
