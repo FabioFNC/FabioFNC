@@ -4,7 +4,7 @@
 
 ### Sobre mim:
 Eu me chamo Fábio Henrique moro no Brasil e tenho 16 anos. Estou estudando progrmação já faz um tempinho pelo curso da [Alura📚](https://www.alura.com.br/), estou estudando **Python🐍** para back-end no momento, porem desejo virar um fullstack no futuro para atacar e resolver problemas complexos do dia a dia. E tenho muito interesse em criar a minha propria **Startup** no futuro!<br>
-Mesmo começando agora, eu já amo projestos open source😍 (eu acho que é um ponto fraco de qualquer desenvolvedor kkk).
+Mesmo começando agora, eu já amo projetos open source😍 (eu acho que é um ponto fraco de qualquer desenvolvedor kkk).
 <br><br>
 
 ___
