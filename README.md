@@ -3,7 +3,7 @@
 ## Seja bem vindo(a) ao meu perfil
 
 ### Sobre mim:
-Eu me chamo Fábio Henrique moro no Brasil e tenho 16 anos. Estou estudando progrmação já faz um tempinho pelo curso da [Alura📚](https://www.alura.com.br/), estou estudando **Python🐍** para back-end no momento, porem desejo virar um fullstack no futuro para atacar e resolver problemas complexos do dia a dia. E tenho muito interesse em criar a minha propria **Startup** no futuro!<br>
+Eu me chamo Fábio Henrique moro no Brasil e tenho 17 anos. Estou estudando progrmação já faz um tempinho pelo curso da [Alura📚](https://www.alura.com.br/), estou estudando para virar um fullstack no futuro para atacar e resolver problemas complexos do dia a dia. E tenho muito interesse em criar a minha propria **Startup** no futuro!<br>
 Mesmo começando agora, eu já amo projetos open source😍 (eu acho que é um ponto fraco de qualquer desenvolvedor kkk).
 <br><br>
 
@@ -18,12 +18,10 @@ ___
 
 > #### Linguagens em aprendizado📚:
 
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-> #### Linguagens que tenho interesse em aprender🐱‍💻:
-
-![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 > #### IDE favorita🌟:
 ![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
