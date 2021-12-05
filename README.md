@@ -6,8 +6,17 @@
  Desenvolvedor back-end Java/Spring ☕🍃.
  <br>
  Sou de Contagem, Brasil❤️.
+ <br>
+ Um breve texto sobre mim.
+  
 </p>
 
+
+<h3 align='center'>Um breve texto sobre mim.</h3>
+<p align='center'>
+  Eu sou uma pessoa muito ligado a tecnologia desde criança, aos meus 5 anos eu pegava alguns brinquedos que tinham partes eletrônicas e os desmontavam para tentar criar algo     novo (o que eu nunca conseguir fazer kkk). Aos meus 12 anos eu comecei a querer saber como funcionava um jogo por debaixo dos panos, e assim comecei  a pesquisar e vi que       para fazer um jogo era preciso saber programar, e então fui procurar alguns, tutorias no YouTube sobre criação de jogos. Com isso eu acabei fazendo meu primeiro jogo no RPG     MAKER, o que não era lá aquelas coisas mas… Era legal pelo menos kkk. Depois disso não parei mais, e hoje estou aqui escrevendo esse README sobre mim aqui no GitHub ❤️.
+</p>
+<br>
 
 
 <p align='center'>
