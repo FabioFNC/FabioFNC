@@ -54,22 +54,18 @@
   📫 como me alcançar: <a href='mailto:fabiohenrique.7670br@gmail.com'>fabiohenrique.7670br@gmail.com</a>
 </p>
 
-<details>
+<details align='center'>
   <summary>📦 Stack</summary>
  
-<br>
- 
-> #### Linguagem:
- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
- 
-> #### Framework:
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+  <br>
 
-> #### IDE favorita🌟:
-![IntelliJIDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
-> #### Bancos de dados:
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-e84d31?style=for-the-badge&logo=git&logoColor=white)
+  <br>
+  ![IntelliJIDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-ff6c37.svg?style=for-the-badge&logo=postman&logoColor=white)
+  
 </details>
