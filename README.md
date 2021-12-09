@@ -6,9 +6,6 @@
  Desenvolvedor back-end Java/Spring ☕🍃.
  <br>
  Sou de Contagem, Brasil❤️.
- <br>
- Um breve texto sobre mim.
-  
 </p>
 
 
