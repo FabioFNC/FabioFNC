@@ -66,3 +66,14 @@
   ![Postman](https://img.shields.io/badge/Postman-ff6c37.svg?style=for-the-badge&logo=postman&logoColor=white)
   
 </details>
+
+<details align='center'>
+  <summary>🔭 Tenho interesse</summary>
+ 
+  <br>
+
+  ![Flutter](https://img.shields.io/badge/flutter-66b1f1?style=for-the-badge&logo=flutter&logoColor=white)
+  ![Javascript](https://img.shields.io/badge/Javascript-efd81d?style=for-the-badge&logo=Javascript&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-005C84?style=for-the-badge&logo=Python&logoColor=white)
+  
+</details>
