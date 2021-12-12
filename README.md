@@ -77,3 +77,9 @@
   ![Python](https://img.shields.io/badge/Python-005C84?style=for-the-badge&logo=Python&logoColor=white)
   
 </details>
+
+<div align='center'>
+  
+  ![Snake animation](https://github.com/FabioFNC/FabioFNC/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
